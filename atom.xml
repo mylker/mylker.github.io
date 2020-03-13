@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>LKER</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-03-13T04:06:30.364Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>LKER</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>“人间是考场”</title>
+    <link href="http://yoursite.com/20200313/%E2%80%9C%E4%BA%BA%E9%97%B4%E6%98%AF%E8%80%83%E5%9C%BA%E2%80%9D/"/>
+    <id>http://yoursite.com/20200313/%E2%80%9C%E4%BA%BA%E9%97%B4%E6%98%AF%E8%80%83%E5%9C%BA%E2%80%9D/</id>
+    <published>2020-03-13T04:04:59.000Z</published>
+    <updated>2020-03-13T04:06:30.364Z</updated>
+    
+    <content type="html"><![CDATA[<p>人间是考场，各自为政，但也有着你陪我这个学渣一起作弊。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;人间是考场，各自为政，但也有着你陪我这个学渣一起作弊。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="你" scheme="http://yoursite.com/categories/%E4%BD%A0/"/>
+    
+    
+      <category term="你" scheme="http://yoursite.com/tags/%E4%BD%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello HEXO</title>
+    <link href="http://yoursite.com/20200312/Hello-HEXO/"/>
+    <id>http://yoursite.com/20200312/Hello-HEXO/</id>
+    <published>2020-03-11T16:00:00.000Z</published>
+    <updated>2020-03-12T16:17:40.936Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello HEXO，由于社团纳新，搭建了第一个由HEXO部署的网站，随后便搭建了这个Blog，现在是2020/3/13 0:15 ，准备去睡觉，嗯，我非常爱她，MFL。对了，搭建这个Blog的目的是记录我所经历的事情，我并不想忘记一切。</p><p align="right">2020/3/12</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Hello HEXO，由于社团纳新，搭建了第一个由HEXO部署的网站，随后便搭建了这个Blog，现在是2020/3/13 0:15 ，准备去睡觉，嗯，我非常爱她，MFL。对了，搭建这个Blog的目的是记录我所经历的事情，我并不想忘记一切。&lt;/p&gt;
+&lt;p align=&quot;rig
+      
+    
+    </summary>
+    
+    
+      <category term="编程语言" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    
+      <category term="前端" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="开始" scheme="http://yoursite.com/tags/%E5%BC%80%E5%A7%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Assembler-Begin</title>
+    <link href="http://yoursite.com/20200309/Assembler-Begin/"/>
+    <id>http://yoursite.com/20200309/Assembler-Begin/</id>
+    <published>2020-03-08T16:00:00.000Z</published>
+    <updated>2020-03-12T16:11:17.799Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天开始学习汇编，希望自己可以部分理解计算机工作原理。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天开始学习汇编，希望自己可以部分理解计算机工作原理。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="编程语言" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    
+      <category term="汇编" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/%E6%B1%87%E7%BC%96/"/>
+    
+    
+      <category term="开始" scheme="http://yoursite.com/tags/%E5%BC%80%E5%A7%8B/"/>
+    
+      <category term="汇编" scheme="http://yoursite.com/tags/%E6%B1%87%E7%BC%96/"/>
+    
+  </entry>
+  
+</feed>
